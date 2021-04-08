@@ -2,7 +2,7 @@
 
 Python, nesne yönelimli, yorumlamalı, birimsel (modüler) ve etkileşimli yüksek seviyeli bir programlama dilidir.
 
-Python’u diğer programlarla kıyaslarsak:
+## Python’u diğer programlarla kıyaslarsak:
 
                    Sadedir yani daha kolay öğrenilir. <br>
                    Diğerlerine göre çok daha hızlı olduğu için zaman kaybı yaratmaz. <br>
