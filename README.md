@@ -4,8 +4,8 @@ Python, nesne yönelimli, yorumlamalı, birimsel (modüler) ve etkileşimli yük
 
 ## Python’u diğer programlarla kıyaslarsak:
 
-                   Sadedir yani daha kolay öğrenilir. <br>
-                   Diğerlerine göre çok daha hızlı olduğu için zaman kaybı yaratmaz. <br>
-                   Ayrı bir derleyici ihtiyacı duymaz. <br>
-                   Daha düzenli bir kod dizilimine sahiptir. <br>
-                   İnsanlar okuyabilir ve anlayabilir. <br>
+                   Sadedir yani daha kolay öğrenilir. 
+                   Diğerlerine göre çok daha hızlı olduğu için zaman kaybı yaratmaz.
+                   Ayrı bir derleyici ihtiyacı duymaz.
+                   Daha düzenli bir kod dizilimine sahiptir. 
+                   İnsanlar okuyabilir ve anlayabilir. 
